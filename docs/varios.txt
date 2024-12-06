@@ -1,0 +1,8 @@
+Agregar Registros:
+    INSERT INTO `tm_producto` (`prod_id`, `prod_nom`, `fecha_crea`, `fecha_modi`, `fecha_elim`, `est`) VALUES (NULL, 'Mouse', '2024-12-05 21:13:23', NULL, NULL, '1');
+
+
+
+Template:
+    https://themeforest.net/search/bracket
+    
